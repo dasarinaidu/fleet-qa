@@ -5,7 +5,7 @@ metadata:
   name: my-fleet-test-crtb-andrew1
   namespace: c-m-b9t2ppqc
   labels:
-      hello: world1
+      hello: world2
 roleTemplateName: cluster-member
 userPrincipalName: local://u-kt27t
 userName: u-kt27t

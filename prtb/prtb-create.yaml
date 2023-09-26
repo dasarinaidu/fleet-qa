@@ -1,7 +1,7 @@
 apiVersion: management.cattle.io/v3
 kind: ProjectRoleTemplateBinding
 metadata:
-  name: dastestprtb2
+  name: dastestprtb3
   namespace: p-29b9l
   labels:
       hello: world45

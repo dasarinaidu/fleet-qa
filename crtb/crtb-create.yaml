@@ -2,7 +2,7 @@ apiVersion: management.cattle.io/v3
 kind: ClusterRoleTemplateBinding
 clusterName: c-m-b9t2ppqc
 metadata:
-  name: das-fleet-test2-crtb
+  name: my-fleet-test1-crtb
   namespace: c-m-b9t2ppqc
   labels:
       hello: world1
